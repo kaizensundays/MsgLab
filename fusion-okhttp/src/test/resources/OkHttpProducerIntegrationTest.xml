@@ -4,9 +4,9 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd"
        default-lazy-init="true">
 
-    <bean class="com.kaizensundays.fusion.okhttp.DefaultRestController"/>
+    <bean class="com.kaizensundays.okhttp.DefaultRestController"/>
 
-    <bean id="handler" class="com.kaizensundays.fusion.okhttp.DefaultWebSocketHandler"/>
+    <bean id="handler" class="com.kaizensundays.okhttp.DefaultWebSocketHandler"/>
 
     <bean id="handlerMapping" class="org.springframework.web.reactive.handler.SimpleUrlHandlerMapping">
         <property name="urlMap">
