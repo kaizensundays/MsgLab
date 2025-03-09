@@ -3,8 +3,8 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.kaizensundays.fusion</groupId>
-        <artifactId>fusion-sigma</artifactId>
+        <groupId>com.kaizensundays.msglab</groupId>
+        <artifactId>msglab</artifactId>
         <version>0.0.0-SNAPSHOT</version>
     </parent>
     <artifactId>fusion-ktor</artifactId>
@@ -13,7 +13,7 @@
 
         <!-- Fusion -->
         <dependency>
-            <groupId>com.kaizensundays.fusion</groupId>
+            <groupId>com.kaizensundays.msglab</groupId>
             <artifactId>fusion-messaging</artifactId>
             <version>${project.version}</version>
         </dependency>

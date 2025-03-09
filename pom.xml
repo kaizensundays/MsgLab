@@ -2,8 +2,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.kaizensundays.fusion</groupId>
-    <artifactId>fusion-sigma</artifactId>
+    <groupId>com.kaizensundays.msglab</groupId>
+    <artifactId>msglab</artifactId>
+    <name>MsgLab</name>
     <version>0.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
