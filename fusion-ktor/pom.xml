@@ -7,14 +7,14 @@
         <artifactId>msglab</artifactId>
         <version>0.0.0-SNAPSHOT</version>
     </parent>
-    <artifactId>fusion-ktor</artifactId>
+    <artifactId>rho-ktor</artifactId>
 
     <dependencies>
 
         <!-- Fusion -->
         <dependency>
             <groupId>com.kaizensundays.msglab</groupId>
-            <artifactId>fusion-messaging</artifactId>
+            <artifactId>rho-messaging</artifactId>
             <version>${project.version}</version>
         </dependency>
 
