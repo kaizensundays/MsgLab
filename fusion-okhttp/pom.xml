@@ -14,7 +14,7 @@
         <!-- Fusion -->
         <dependency>
             <groupId>com.kaizensundays.msglab</groupId>
-            <artifactId>fusion-messaging</artifactId>
+            <artifactId>rho-messaging</artifactId>
             <version>${project.version}</version>
         </dependency>
 
