@@ -1,4 +1,4 @@
-package com.kaizensundays.fusion.okhttp
+package com.kaizensundays.okhttp
 
 import com.kaizensundays.fusion.messaging.LoadBalancer
 import com.kaizensundays.fusion.messaging.Producer

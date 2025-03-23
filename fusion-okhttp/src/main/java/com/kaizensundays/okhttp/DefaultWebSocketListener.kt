@@ -1,4 +1,4 @@
-package com.kaizensundays.fusion.okhttp
+package com.kaizensundays.okhttp
 
 import okhttp3.WebSocketListener
 
