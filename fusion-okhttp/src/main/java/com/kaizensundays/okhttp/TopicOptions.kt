@@ -1,4 +1,4 @@
-package com.kaizensundays.fusion.okhttp
+package com.kaizensundays.okhttp
 
 /**
  * Created: Saturday 10/21/2023, 4:29 PM Eastern Time

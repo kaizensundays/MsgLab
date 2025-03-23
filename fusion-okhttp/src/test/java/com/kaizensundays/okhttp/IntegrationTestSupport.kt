@@ -1,4 +1,4 @@
-package com.kaizensundays.fusion.okhttp
+package com.kaizensundays.okhttp
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration
 import org.springframework.boot.test.context.SpringBootTest

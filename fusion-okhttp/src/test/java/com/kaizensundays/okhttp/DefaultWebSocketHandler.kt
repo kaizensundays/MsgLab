@@ -1,4 +1,4 @@
-package com.kaizensundays.fusion.okhttp
+package com.kaizensundays.okhttp
 
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory

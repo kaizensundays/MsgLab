@@ -3,42 +3,25 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.kaizensundays.fusion</groupId>
-        <artifactId>fusion-sigma</artifactId>
+        <groupId>com.kaizensundays.msglab</groupId>
+        <artifactId>msglab</artifactId>
         <version>0.0.0-SNAPSHOT</version>
     </parent>
-    <artifactId>fusion-webflux</artifactId>
+    <artifactId>rho-webflux</artifactId>
 
     <dependencies>
 
         <!-- Fusion -->
         <dependency>
-            <groupId>com.kaizensundays.fusion</groupId>
-            <artifactId>fusion-messaging</artifactId>
+            <groupId>com.kaizensundays.msglab</groupId>
+            <artifactId>rho-messaging</artifactId>
             <version>${project.version}</version>
         </dependency>
 
         <!-- Log4j -->
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-core</artifactId>
-            <version>${log4j.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-jcl</artifactId>
-            <version>${log4j.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-slf4j-impl</artifactId>
-            <version>${log4j.version}</version>
-        </dependency>
-
-        <!-- Slf4j -->
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
+            <artifactId>log4j-slf4j2-impl</artifactId>
         </dependency>
 
         <!-- Spring -->
